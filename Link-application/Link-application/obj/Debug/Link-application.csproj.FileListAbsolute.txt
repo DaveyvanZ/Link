@@ -1,0 +1,41 @@
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\Link-application.exe.config
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link_application.Linkform.resources
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link_application.Properties.Resources.resources
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.csproj.GenerateResource.Cache
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\Link-application.exe
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\Link-application.pdb
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.exe
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.pdb
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Interop.WMPLib.dll
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.csproj.ResolveComReference.cache
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\Interop.WMPLib.dll
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\AxInterop.WMPLib.dll
+D:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.csprojResolveAssemblyReference.cache
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\bin\Debug\Link-application.exe.config
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Interop.WMPLib.dll
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\AxInterop.WMPLib.dll
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.csproj.ResolveComReference.cache
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.exe
+E:\OneDrive\Fontys HBO ICT\P2\P2\GitHub\GIT\SE\Link-application\Link-application\obj\Debug\Link-application.pdb
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\bin\Debug\Link-application.exe.config
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\obj\Debug\Link-application.csproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\obj\Debug\Link-application.exe
+C:\Users\Dave\Desktop\uitpak\Link-application\Link-application\obj\Debug\Link-application.pdb
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\bin\Debug\Link-application.exe.config
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\bin\Debug\Link-application.exe
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\bin\Debug\Link-application.pdb
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.csprojAssemblyReference.cache
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Interop.WMPLib.dll
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.csproj.ResolveComReference.cache
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link_application.Linkform.resources
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link_application.Properties.Resources.resources
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.csproj.GenerateResource.cache
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.csproj.CoreCompileInputs.cache
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.exe
+C:\Users\Dave\Desktop\LPA P-Fase\Link-application\Link-application\obj\Debug\Link-application.pdb
